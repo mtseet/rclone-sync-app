@@ -1,2 +1,5 @@
+v1.0.1
+- Improve sync status display, fix issue with extraneous status output
+- Set correct home icon
 v1.0.0
 - Initial release
